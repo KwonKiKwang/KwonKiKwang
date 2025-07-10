@@ -24,6 +24,9 @@
 
 ## 🧰 STACKS
 
+**Project Management / Scheduling**  
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)  ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white)  ![Monday](https://img.shields.io/badge/Monday.com-FF7552?style=flat&logo=monday&logoColor=white)
+
 **Languages & Markup**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)  ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 
